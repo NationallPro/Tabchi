@@ -1,4 +1,4 @@
-# [Tabchi](https://telegram.me/iTeam_ir)
+# [Tabchi](https://telegram.me/NationalTM)
 
 * **An advanced and powerful broadcasting bot based on [SeedTeam/TeleSeed](https://github.com/SeedTeam/TeleSeed)**
 
@@ -75,8 +75,12 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 ```
 Then restart the bot.
 
-### Powered by iTeam!
+### Powered by National TM!
 
-English Channel: [@iTeam_en](https://telegram.me/iTeam_en)
+Learning Channel: [@CyberSecurrity](https://telegram.me/CyberSecurrity)
 
-Persian Channel: [@iTeam_ir](https://telegram.me/iTeam_ir)
+Team News & Bot Channel: [@National TM](https://telegram.me/NationalTM)
+
+Developer: [@Mr_Develloper](https://telegram.me/Mr_Develloper)
+
+##Good Luck:)
